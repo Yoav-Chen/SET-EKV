@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "*.va": "v",
+        ".include": "v",
+        "*.m": "matlab",
+        "iostream": "cpp",
+        "thread": "cpp",
+        "cmath": "cpp"
+    }
+}

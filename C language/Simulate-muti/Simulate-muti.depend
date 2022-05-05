@@ -1,0 +1,88 @@
+# depslib dependency file v1.0
+1628240055 source:e:\各种文件\ml\zyk\simulate-muti\main.cpp
+	"de.h"
+	<fstream>
+	<sstream>
+	<vector>
+	<algorithm>
+	<string>
+	<cmath>
+
+1628240099 e:\各种文件\ml\zyk\simulate-muti\de.h
+	"func.h"
+	<time.h>
+
+1628240086 e:\各种文件\ml\zyk\simulate-muti\func.h
+	<iostream>
+	<cstdio>
+	<math.h>
+	<vector>
+
+1628240327 source:e:\各种文件\ml\simulate-muti\de.cpp
+	<fstream>
+	<string>
+	<sstream>
+	<limits.h>
+	<float.h>
+	<cmath>
+	<thread>
+	<omp.h>
+	"func.h"
+	"de.h"
+	<direct.h>
+	<sys/stat.h>
+	<unistd.h>
+
+1628240086 e:\各种文件\ml\simulate-muti\func.h
+	<iostream>
+	<cstdio>
+	<math.h>
+	<vector>
+
+1628240099 e:\各种文件\ml\simulate-muti\de.h
+	"func.h"
+	<time.h>
+
+1628240536 source:e:\各种文件\ml\simulate-muti\main.cpp
+	"de.h"
+	<fstream>
+	<sstream>
+	<vector>
+	<algorithm>
+	<string>
+	<cmath>
+
+1637930347 source:e:\各种文件\ml\simulate-muti_勿动，win和linux都可运行\de.cpp
+	<fstream>
+	<string>
+	<sstream>
+	<limits.h>
+	<float.h>
+	<cmath>
+	<thread>
+	<omp.h>
+	"func.h"
+	"de.h"
+	<direct.h>
+	<sys/stat.h>
+	<unistd.h>
+
+1637930369 e:\各种文件\ml\simulate-muti_勿动，win和linux都可运行\func.h
+	<iostream>
+	<cstdio>
+	<math.h>
+	<vector>
+
+1628240099 e:\各种文件\ml\simulate-muti_勿动，win和linux都可运行\de.h
+	"func.h"
+	<time.h>
+
+1637930388 source:e:\各种文件\ml\simulate-muti_勿动，win和linux都可运行\main.cpp
+	"de.h"
+	<fstream>
+	<sstream>
+	<vector>
+	<algorithm>
+	<string>
+	<cmath>
+
